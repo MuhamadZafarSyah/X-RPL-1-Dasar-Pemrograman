@@ -10,9 +10,8 @@ cin >> year;
 
     if (year%4==0)
         cout << "Tahun Kabisat";
-
     else
         cout << "Bukan Tahun Kabisat";
-
+cout << "Assalamualaikum";
     return 0;
 }
